@@ -1,0 +1,90 @@
+ [
+  {
+  "artist":"Johannes Vermeer",
+  "artistdates":"1632-1675",
+  "title":"A Young Woman standing at a Virginal",
+  "date":"about 1670-2",
+  "url":"vermeer.jpg",
+  "description":"The richly dressed lady playing a virginal stands in a prosperous Dutch home with paintings on the wall, a marble-tiled floor, and a skirting of locally produced Delft blue and white tiles. The two paintings on the wall behind her cannot be identified with certainty. The small landscape on the left and the painting decorating the lid of the virginal resemble works by Vermeer’s Delft colleague Pieter Groenewegen."
+  },
+  {
+  "artist":"Titian",
+  "artistdates":"1506-1576",
+  "title":"Bacchus and Ariadne",
+  "date":"1520-3",
+  "url":"titian.jpg",
+  "description":"Bacchus, god of wine, emerges with his followers from the landscape to the right. Falling in love with Ariadne on sight, he leaps from his chariot, drawn by two cheetahs, towards her. Ariadne had been abandoned on the Greek island of Naxos by Theseus, whose ship is shown in the distance. The picture shows her initial fear of Bacchus, but he raised her to heaven and turned her into a constellation, represented by the stars above her head."
+  
+  },
+  {
+  "artist":"Paul Cezanne",
+  "artistdates":"1632-1675",
+  "title":"Bathers (Les Grandes Baigneuses)",
+  "date":"about 1894-1905",
+  "url":"cezanne.jpg",
+  "description":"Cézanne painted bathers from the 1870s onwards, including numerous compositions of male and female bathers, singly or in groups. Late in life, he painted three large-scale female bather groups. In addition to the National Gallery's painting, they are now in the Barnes Foundation, Merion, PA, and the Philadelphia Museum of Art. He seems to have been at work on all three simultaneously at the time of his death."
+  
+  },
+  
+  {
+  "artist":"Claude Monet",
+  "artistdates":"1840-1926",
+  "title":"Bathers at La Grenouillère",
+  "date":"1869",
+  "url":"monet.jpg",
+  "description":"This painting depicts a popular boating and bathing establishment with an adjacent floating café, on the Seine near Bougival to the west of Paris. In the summer of 1869 Monet was living near La Grenouillère with his mistress, Camille, and their son. Working alongside Renoir, he painted sketches of the scene in a very fresh and direct manner, possibly in preparation for a slightly larger canvas, now lost."
+  }
+  ,
+  
+  {
+  "artist":"Rembrandt",
+  "artistdates":"1606-1669",
+  "title":"Self Portrait at the Age of 34",
+  "date":"1640",
+  "url":"rembrandt.jpg",
+  "description":"This portrait shows Rembrandt at the height of his career, presenting himself in a self-assured pose wearing an elaborate costume in the fashion of the 16th century. It seems as if Rembrandt refers deliberately to his famous predecessors in this portrait, and thus places himself in the tradition of great 'Old Masters'. The word 'conterfeycel' (more properly conterfeytsel) is an archaic Dutch term for portrait."
+  
+  },
+  {
+  "artist":"Vincent van Gogh",
+  "artistdates":"1853-1890",
+  "title":"Sunflowers",
+  "date":"1888",
+  "url":"vangogh.jpg",
+  "description":"This is one of four paintings of sunflowers dating from August and September 1888. Van Gogh intended to decorate Gauguin's room with these paintings in the so-called Yellow House that he rented in Arles in the South of France. He and Gauguin worked there together between October and December 1888. Van Gogh wrote to his brother Theo in August 1888, 'I am hard at it, painting with the enthusiasm of a Marseillais eating bouillabaisse, which won't surprise you when you know that what I'm at is the painting of some sunflowers. If I carry out this idea there will be a dozen panels. So the whole thing will be a symphony in blue and yellow. I am working at it every morning from sunrise on, for the flowers fade so quickly. I am now on the fourth picture of sunflowers. This fourth one is a bunch of 14 flowers ... it gives a singular effect.'"
+  },
+  {
+  "artist":"Michelangelo",
+  "artistdates":"1475-1564",
+  "title":"The Entombment",
+  "date":"about 1500-1",
+  "url":"Michelangelo.jpg",
+  "description":"This unfinished painting shows Christ's body being carried to his tomb. There is some disagreement over the identity of the various figures represented. Saint John the Evangelist is usually shown in red with long hair, and may be the figure on the left carrying Christ. The others are probably Nicodemus, and Joseph of Arimathaea who gave up his tomb for Jesus. The kneeling figure to the left is probably Mary Magdalene and the woman at the back right is a Holy Woman (Mary Salome). The Virgin is prepared in outline in the bottom right corner."
+  
+  },
+  {
+  "artist":"Raphael",
+  "artistdates":"1483-1520",
+  "title":"The Madonna of the Pinks ('La Madonna dei Garofani')",
+  "date":"about 1506-7",
+  "url":"raphael.jpg",
+  "description":"This small devotional picture was painted for Christian contemplation; its original owner would have held the painting in his or her hand. It shows the Virgin and Child seated in a bedchamber (the bed-curtain is looped behind the Virgin's head) with a view of a sunny landscape seen through a window. They hand flowers between them - pinks which are symbols of marriage - depicting the Virgin Mary as not only the Mother but the Bride of Christ."
+  
+  },
+  {
+  "artist":"Sandro Botticelli",
+  "artistdates":"1445-1510",
+  "title":"Venus and Mars",
+  "date":"about 1485",
+  "url":"botticelli.jpg",
+  "description":"Mars, God of War, was one of the lovers of Venus, Goddess of Love. Here Mars is asleep and unarmed, while Venus is awake and alert. The meaning of the picture is that love conquers war, or love conquers all."
+  },
+  {
+  "artist":"Leonardo da Vinci",
+  "artistdates":"1452 - 1519",
+  "title":"The Virgin of the Rocks",
+  "date":"about 1491/2-9 and 1506-8",
+  "url":"davinci.jpg",
+  "description":"'The Virgin of the Rocks' seems not to refer to the mystery of the Immaculate Conception, but depicts the type of subject that Leonardo might have painted in his native Florence where legends concerning the young Saint John the Baptist were popular."
+  }
+]
