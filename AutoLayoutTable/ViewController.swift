@@ -20,8 +20,8 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         tableView.registerNib(UINib(nibName: "ALTableViewCell", bundle: nil), forCellReuseIdentifier: "cell")
         tableView.delegate = self
         tableView.dataSource = self
-        // tableView.rowHeight = UITableViewAutomaticDimension
-        // tableView.estimatedRowHeight = 200
+        tableView.rowHeight = UITableViewAutomaticDimension
+        tableView.estimatedRowHeight = 200
         tableView.tableFooterView = UIView(frame: CGRectZero)
     }
     
@@ -35,17 +35,9 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         
         cell = tableView.dequeueReusableCellWithIdentifier("cell", forIndexPath: indexPath) as! ALTableViewCell
 
-        let item = items[indexPath.row]
-        
-        let artist = item.artist ?? "N/A"
-        cell.author?.text = "Artist: \(artist)"
-        let title = item.title ?? "N/A"
-        cell.title?.text = title
-        let created = item.date ?? "N/A"
-        cell.createDate?.text = "Created: \(created)"
-        let comment = item.comment ?? "N/A"
-        cell.comment?.text = comment
-        cell.thumbnail?.image = item.thumbnail
+        if items.count > indexPath.row {
+            cell.masterpiece = items[indexPath.row]
+        }
         
         return cell
     }
