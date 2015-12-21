@@ -20,8 +20,8 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         tableView.registerNib(UINib(nibName: "ALTableViewCell", bundle: nil), forCellReuseIdentifier: "cell")
         tableView.delegate = self
         tableView.dataSource = self
-        // tableView.rowHeight = UITableViewAutomaticDimension
-        // tableView.estimatedRowHeight = 200
+        tableView.rowHeight = UITableViewAutomaticDimension
+        tableView.estimatedRowHeight = 200
         tableView.tableFooterView = UIView(frame: CGRectZero)
     }
     
