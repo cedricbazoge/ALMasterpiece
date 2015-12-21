@@ -15,14 +15,5 @@ class ALTableViewCell: UITableViewCell {
     @IBOutlet var title: UILabel!
     @IBOutlet var createDate: UILabel!
     @IBOutlet var comment: UILabel!
-    
-    
-    override func awakeFromNib() {
-        super.awakeFromNib()
-    }
-    
-    override class func requiresConstraintBasedLayout() -> Bool {
-        return true
-    }
 }
  
