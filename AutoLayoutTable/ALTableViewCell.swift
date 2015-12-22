@@ -34,7 +34,6 @@ class ALTableViewCell: UITableViewCell {
     @IBOutlet var comment    : UILabel!
     
     //Constraint Outlets
-    @IBOutlet weak var constraintDescLeading  : NSLayoutConstraint!
     @IBOutlet weak var constraintDescTopSpace : NSLayoutConstraint!
     
     
@@ -56,4 +55,15 @@ class ALTableViewCell: UITableViewCell {
         self.updateConstraintsIfNeeded()
     }
 }
+
+
+
+
+
+
+
+
+
+
+
  
