@@ -33,10 +33,6 @@ class ALTableViewCell: UITableViewCell {
     @IBOutlet var createDate : UILabel!
     @IBOutlet var comment    : UILabel!
     
-    //Constraint Outlets
-    @IBOutlet weak var constraintDescTopSpace : NSLayoutConstraint!
-    
-    
     override class func requiresConstraintBasedLayout() -> Bool {
         return true
     }
